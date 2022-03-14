@@ -85,6 +85,7 @@
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200-c-k-c0xffffffff-no-rj-mo) | - | EMB |
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200-c-k-c0x00ffffff-no-rj) | - | EMB |
 | Paka Paka | [youtube](https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live) | [web](http://www.pakapaka.gob.ar/envivo/) | [logo](https://graph.facebook.com/canalpakapaka/picture?width=200&height=200) | - | EMB |
+| Inspiranime | [m3u8](https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w854623100.m3u8) | [web](https://inspiranime.com/) | [logo](https://graph.facebook.com/inspiranime/picture?width=200&height=200) | - | - |
 
 ## Eventuales
 
